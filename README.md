@@ -1,2 +1,2 @@
 # Netflixx.repo
-this is Netflix clone
+This is Netflix clone
